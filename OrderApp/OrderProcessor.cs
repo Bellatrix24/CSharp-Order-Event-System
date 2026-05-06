@@ -6,7 +6,7 @@ namespace OrderApp
 
     public class OrderProcessor
     {
-        public event OrderPlacedHandler OnOrderPlaced;
+        public event OrderPlacedHandler? OnOrderPlaced;
 
         public void ProcessOrder(Order order)
         {

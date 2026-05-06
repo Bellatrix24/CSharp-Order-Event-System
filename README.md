@@ -55,6 +55,4 @@ Order logged successfully
 - How multicast delegates let you attach more than one method to the same event
 - The publisher-subscriber model and why it's useful in real applications
 
-## Sample Output Screenshot
 
-![Output Screenshot](output_screenshot.png)
